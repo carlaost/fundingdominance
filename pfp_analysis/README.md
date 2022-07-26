@@ -1,0 +1,2 @@
+# Facial Expression Classification
+Based on the features extracted using [OpenFace 2.0](https://github.com/TadasBaltrusaitis/OpenFace) and AU activation patterns identified by [Rychlowska et al. (2017)](https://journals.sagepub.com/doi/pdf/10.1177/0956797617706082), the Facial Expression Classifier identifies profile pictures as showing a rewarding, dominant, affiliative smile, or no smile at all.
